@@ -71,4 +71,6 @@ const a = [
 	},
 ]
 
+
+console.log(filter_singularity(x, y))
 console.log(filter_singularity(z, a))
