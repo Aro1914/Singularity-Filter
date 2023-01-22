@@ -1,0 +1,27 @@
+{
+  "name": "singularity_filter",
+  "version": "0.0.1",
+  "description": "A utility function that filters two arrays of objects for unique objects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aro1914/Singularity-Filter.git"
+  },
+  "keywords": [
+    "utility-function",
+    "filter",
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "Emmanuel Agbavwe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aro1914/Singularity-Filter/issues"
+  },
+  "homepage": "https://github.com/Aro1914/Singularity-Filter#readme"
+}
